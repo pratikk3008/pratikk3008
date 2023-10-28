@@ -1,4 +1,4 @@
-### Hi there 👋, myself Pratik Shirsath. 
+# Hi there 👋, myself Pratik Shirsath. 
 
 ## About:
 
@@ -8,9 +8,11 @@
 
 🚀 I'm currently exploring the world of AI projects and always eager to learn and explore new technologies.
 
-🏆 In my free time, I enjoy participating in coding competitions and hackathons. I've been recognized for my achievements in various tech events.
+🏆 In my free time, i love to play cricket, karate, painting. Its been 15 yrs of me being a professional Karate player, i have also represented India at International Karate Championship in late 2020 held in LONDON(UK).
 
-🌱 i am currently learning GoLang
+🌱 I'm currently learning GoLang.
+
+🤝 I have recently start coding and I'm very keen to participate in various tech events for my handfull contribution...., i have currently participated in HACKTOBERFEST.
 
 📫 Let's connect and collaborate! Find me on twitter: []
 
