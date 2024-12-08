@@ -2,9 +2,9 @@
 
 ## About:
 
-🎓 I'm a second-year B.Tech student at K.K.Wagh Institute of Education and Research, with a focus on Artificial Intelligence and Data Science(**AIDS**).
+🎓 I'm a Third-year B.Tech student at K.K.Wagh Institute of Education and Research, with a focus on Artificial Intelligence and Data Science(**AIDS**).
 
-💻 I'm passionate about coding, data analysis, and building innovative solutions. My skills include Python, Programming in C , C++.
+💻 I'm passionate about coding, data analysis, and building innovative solutions. My skills include Python, Programming in C , C++, Golang, Javascript.
 
 🚀 I'm currently exploring the world of AI projects and always eager to learn and explore new technologies.
 
@@ -12,7 +12,7 @@
 
 🌱 I'm currently learning GoLang.
 
-🤝 I have recently start coding and I'm very keen to participate in various tech events for my handfull contribution...., i have currently participated in HACKTOBERFEST.
+🤝 I have recently started coding and I'm very keen to participate in various tech events for my handfull contribution...., i have currently participated in HACKTOBERFEST.
 
 📫 Let's connect and collaborate! Find me on twitter: []
 
